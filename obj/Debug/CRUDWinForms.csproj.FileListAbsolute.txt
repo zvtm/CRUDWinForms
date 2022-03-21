@@ -1,0 +1,12 @@
+F:\prjct\CRUDWinForms\CRUDWinForms\bin\Debug\Database1.mdf
+F:\prjct\CRUDWinForms\CRUDWinForms\bin\Debug\Database1_log.ldf
+F:\prjct\CRUDWinForms\CRUDWinForms\bin\Debug\CRUDWinForms.exe.config
+F:\prjct\CRUDWinForms\CRUDWinForms\bin\Debug\CRUDWinForms.exe
+F:\prjct\CRUDWinForms\CRUDWinForms\bin\Debug\CRUDWinForms.pdb
+F:\prjct\CRUDWinForms\CRUDWinForms\obj\Debug\CRUDWinForms.csprojAssemblyReference.cache
+F:\prjct\CRUDWinForms\CRUDWinForms\obj\Debug\CRUDWinForms.Form1.resources
+F:\prjct\CRUDWinForms\CRUDWinForms\obj\Debug\CRUDWinForms.Properties.Resources.resources
+F:\prjct\CRUDWinForms\CRUDWinForms\obj\Debug\CRUDWinForms.csproj.GenerateResource.cache
+F:\prjct\CRUDWinForms\CRUDWinForms\obj\Debug\CRUDWinForms.csproj.CoreCompileInputs.cache
+F:\prjct\CRUDWinForms\CRUDWinForms\obj\Debug\CRUDWinForms.exe
+F:\prjct\CRUDWinForms\CRUDWinForms\obj\Debug\CRUDWinForms.pdb
